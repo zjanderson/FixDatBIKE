@@ -1,2 +1,2 @@
-# fix-ya-BIKE
+# FixDatBIKE
 Bicycle mileage and maintenance log for Strave users
